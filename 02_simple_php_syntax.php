@@ -10,7 +10,7 @@ $hobbies = "Sleeping, Cafe-Hopping";
 $pet_peeve = "Mga sobrang maingay magchikahan sa jeep";
 
 echo "Name: $name\n";
-echo "Age: $name\n";
+echo "Age: $age\n";
 echo "Address: $address\n";
 echo "Hobbies: $hobbies\n";
 echo "Pet Peeve: $pet_peeve\n";
