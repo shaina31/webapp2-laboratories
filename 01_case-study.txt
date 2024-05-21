@@ -1,0 +1,27 @@
+In order to deliver such a successful project, it involves numerous aspects to be accomplished accordingly based on the task guidelines. Here are some steps/practices that I researched that could have been put into effect to avoid the delays and issues mentioned in the specific situation:
+
+Gather Important Documents
+-	Before embarking on a project, important documents should be distributed and understood by all parties. Any mishaps that occur during this stage will cause delays in the project.
+
+Plan a Realistic Deadline
+-	Planning the timetable for a task can be tedious because we don't know if we'll be able to finish on time, but it's better to work hard and deliver a good performance than to disappoint your clients. To avoid such problems with project deadlines, it is important to allocate an adequate amount of time for the project, as well as to include "buffer-time" to address any issues that may arise before the project is completed.
+
+Create a Detailed Project Plan and Monitor Progress
+-	After determining the project timeline, it is best to begin developing the detailed plan for the project itself. Track the team's progress on a regular basis to ensure that everything is properly executed, monitored, and goes as planned.
+
+Prioritize What Needs to Be Prioritized
+-	While working on the project, we are aware of what should be prioritized and what can be done later on; however, in order to complete the task, we must be able to identify which functionalities should be given priority and completed in the earlier stage in order to avoid larger delays.
+
+Communication and Collaboration
+-	As the project progresses, it becomes increasingly important to establish positive connections with your team because communication is essential for success. Having positive relationships with members, heads, and project managers is essential to ensure that everything runs smoothly. Communicating with team members through scrum meetings or formal meetings to discuss progress and issues is necessary in order to provide solutions and opinions to improve the project. 
+
+Testing
+-	Testing shouldn’t just be done when we are nearing at the end of the project, it should be implemented from the start of the course of the project to guarantee that everything is working in order to avoid larger issues and to resolve them more easily and quickly.
+
+Backup Plans
+-	While performing work on a project, we should be aware of the risks that comes with it. In order to complete the project as planned, it is best to have a backup plan in case something unexpected occurs as it is extremely time, cost, and effort-consuming to start over again from scratch as projects like this require a lot of determination to accomplish.
+
+Be Aware about Trends and Adapt:
+-	Changes can occur over time, and adaptability is required to keep up with new trends that can improve the project. This ensures that bugs can be resolved as soon as possible because we are given knowledge about something that can make our journey to make the project more meaningful and knowledgeable.
+
+With all of these suggestions, I hope that it may be of help for the team to be able to fix the situation and deliver a good software project that would cater to bring good to everyone.
